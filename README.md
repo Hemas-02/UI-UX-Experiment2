@@ -1,22 +1,68 @@
 # UI-UX-Experiment2
+Design a Basic Mobile and Web Layout for an Existing Case Study
 
 ## Aim:
-To design responsive mobile and web layouts for an existing digital product by applying Gestalt principles, UI patterns, usability guidelines, and branding techniques — ensuring a cohesive and user-centered experience.
+To design a basic mobile and web layout for an existing case study by applying Gestalt principles,
+incorporating UI design patterns, developing interaction behaviors for usability, 
+and creating a branded logo using Canva in alignment with design guidelines.
+
 ## Algorithm:
-Step 1: Select an Existing Case Study Choose a real-world app or website as a reference (e.g., Zomato, Uber, Flipkart). Understand the core purpose, target audience, and existing user flow.
+Step 1: Select a Case Study
+        Choose an existing digital product (e.g., Zomato, Airbnb, Amazon).
+        Analyze its core features, target users, and branding style.
 
-Step 2: Apply Gestalt Principles Study Gestalt principles such as proximity, similarity, continuity, closure, and figure-ground. Incorporate these principles into layout wireframes to enhance visual hierarchy and organization.
+Step 2: Apply Gestalt Design Principles
+        Apply key principles like:
+        Proximity – group related items together.
+        Similarity – use consistent colors, icons, fonts.
+        Continuity – guide the user's eyes through layout flow.
+        Closure – allow users to perceive incomplete shapes.
+        Figure-Ground – differentiate elements from the background.
 
-Step 3: Design UI Layouts (Mobile and Web) Use a design tool like Figma or Adobe XD to create mobile and web wireframes. Add common UI elements like navigation bars, buttons, input fields, modals, and cards. Follow responsive design best practices for different screen sizes.
+Step 3: Create Low-Fidelity Wireframes
+        Sketch basic layout ideas for both mobile and web versions.
+        Use pen-paper or tools like Balsamiq/Figma for rough structure.
+        Focus on navigation, spacing, grouping of elements.
 
-Step 4: Integrate Interaction and Usability Features Define and design interaction behaviors such as hover states, transitions, and feedback. Ensure usability by following principles like consistency, feedback, affordance, and accessibility. Simulate user journeys (e.g., onboarding, checkout, profile edit) in prototypes.
+Step 4: Incorporate UI Elements and Design Patterns
+        Add components like:
+        Buttons, search bars, cards, modals, navigation drawers.
+        Apply UI design patterns:
+        Hamburger menu (mobile)
+        Top navigation (web)
+        Infinite scroll or pagination
+        Ensure visual hierarchy and consistency.
 
-Step 5: Design a Brand Logo Use Canva to design a simple brand logo that reflects the product's identity. Follow branding guidelines: consistent colors, fonts, and scalable design. Export and embed the logo into both web and mobile layouts.
+Step 5: Develop Interaction & Usability Behaviors
+        Define key user flows (e.g., sign-in, product browsing, checkout).
+        Ensure interactions follow usability principles:
+        Feedback on actions (e.g., button pressed, error shown)
+        Accessibility (contrast, font size, touch target size)
+        Minimal user effort and cognitive load
 
-Step 6: Review and Document Review the final design for alignment, spacing, contrast, and flow. Export layouts as images or interactive prototypes. Document your design decisions and how each principle/tool contributed to the final output.
+Step 6: Create a Brand Logo Using Canva
+        Open Canva and select logo template.
+        Choose appropriate font, colors, and iconography aligned with the brand's tone.
+        Export the logo in PNG format.
+        Place the logo into both mobile and web layouts for brand consistency.
+
+Step 7: Build Final Layouts
+        Use Figma, Adobe XD, or similar tools to create high-fidelity layouts.
+        Design both mobile and web versions based on the same design system.
+        Insert the brand logo and ensure responsiveness in design elements.
+
+Step 8: Review and Test
+        Present designs to peers or users.
+        Collect feedback on layout clarity, branding, and usability.
+        Refine layouts based on suggestions.
+
+
 ## Output:
 
-<img width="542" height="837" alt="image" src="https://github.com/user-attachments/assets/1ee1f3fe-2e4b-41cb-8a3f-6fec1c280b3f" />
+![Screenshot 2025-05-01 120307](https://github.com/user-attachments/assets/06eeab7b-bed7-4eb7-a72f-b9c64126102f)
+
+![Screenshot 2025-05-01 114348](https://github.com/user-attachments/assets/1c0da9b1-d839-43db-b302-84be6f317ffe)
 
 ## Result:
-Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. This process enhanced my skills in layout planning, responsive design, branding, and user-centered thinking.
+Thus the given design is successfully created.
+
